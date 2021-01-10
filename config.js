@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://github.com/pikpokjeon',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'DevBlog by Yaejin Jeon',
+  subtitle: 'Frontend Developer @Seoul/Korea. Interested in FP and Data Visualization',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,11 +12,23 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Life',
+      path: '/pages/life'
+    },
+    {
+      label: 'Algorithms',
+      path: '/pages/Algorithms'
+    },
+    {
+      label: 'CodingTest',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'ProLang',
+      path: '/pages/prolang'
+    },
+    {
+      label: 'About',
       path: '/pages/about'
     },
     {
@@ -25,15 +37,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Yaejin Jeon',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Getting my foot in the door of Programming World from Industrial Design.',
     contacts: {
-      email: '',
+      email: 'pikpokjeon@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'https://github.com/pikpokjeon',
       rss: '',
       vkontakte: '',
       linkedin: '#',
