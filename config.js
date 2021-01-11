@@ -11,29 +11,29 @@ module.exports = {
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
-    {
-      label: 'Life',
-      path: '/pages/life'
-    },
+    // {
+    //   label: 'Life',
+    //   path: '/pages/life'
+    // },
     {
       label: 'Algorithms',
-      path: '/pages/Algorithms'
-    },
-    {
-      label: 'CodingTest',
       path: '/'
     },
-    {
-      label: 'ProLang',
-      path: '/pages/prolang'
-    },
-    {
-      label: 'About',
-      path: '/pages/about'
-    },
+    // {
+    //   label: 'CodingTest',
+    //   path: '/'
+    // },
+    // {
+    //   label: 'ProLang',
+    //   path: '/pages/prolang'
+    // },
+    // {
+    //   label: 'About',
+    //   path: '/pages/contacts'
+    // },
     {
       label: 'Contact me',
-      path: '/pages/contacts'
+      path: '/pages/about'
     }
   ],
   author: {
