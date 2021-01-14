@@ -1,15 +1,14 @@
 ---
-title: python
+title: "[python]가장 많은 알파벳"
 date: "2021-01-11T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+slug: ""
+category: "알고리즘"
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
-socialImage: "/media/image-2.jpg"
+  - "알고리즘"
+  - "파이썬"
+description: "가장 많은 알파벳을 구하는 경우의 수"
 ---
 ``` python
 # 문제
