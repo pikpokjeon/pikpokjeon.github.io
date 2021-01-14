@@ -3,7 +3,7 @@ title: "[python] BFS DFS snippet"
 date: "2021-01-10T22:12:03.284Z"
 template: "post"
 draft: false
-slug: "기본적인 틀"
+slug: "bfsdfs"
 category: "알고리즘"
 tags:
   - "알고리즘"
