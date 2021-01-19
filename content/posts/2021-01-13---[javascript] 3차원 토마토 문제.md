@@ -3,7 +3,7 @@ title: "[js] 3차원 배열 토마토 문제"
 date: "2021-01-08T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "tomato_2"
+slug: "tomatothreed"
 category: "알고리즘"
 tags:
   - "알고리즘"
@@ -12,7 +12,7 @@ tags:
   - "bfs"
 description: "쌓여진 토마토들이 전부 익는데 걸리는 시간 구하기 문제"
 ---
-Shift() 메서드를 사용하게 되면, 시간초과가 난다.
+### Shift() 메서드를 사용하게 되면, 시간초과가 난다.
 이것을 해결하기 위해서, 큐 구조를 직접 만들어 준다.
 ```javascript
 
