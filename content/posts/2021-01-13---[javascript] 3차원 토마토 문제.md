@@ -1,6 +1,6 @@
 ---
-title: "[js] 3차원 배열 토마토 문제"
-date: "2021-01-08T22:40:32.169Z"
+title: "[JS] 3차원 배열 토마토 문제"
+date: "2021-01-17T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "tomatothreed"
