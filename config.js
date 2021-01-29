@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://github.com/pikpokjeon',
+  url: 'https://pikpokjeon.github.io/',
   pathPrefix: '/',
   title: 'DevBlog by Yaejin Jeon',
   subtitle: 'Frontend Developer @Seoul/Korea. Interested in FP and Data Visualization',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'G-1Z7D4THB6G',
   useKatex: false,
   menu: [
     // {
