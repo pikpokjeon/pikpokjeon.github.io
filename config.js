@@ -23,17 +23,17 @@ module.exports = {
     //   label: 'CodingTest',
     //   path: '/'
     // },
-    // {
-    //   label: 'ProLang',
-    //   path: '/pages/prolang'
-    // },
+    {
+      label: 'ProLang',
+      path: '/'
+    },
     // {
     //   label: 'About',
     //   path: '/pages/contacts'
     // },
     {
       label: 'Contact me',
-      path: '/pages/about'
+      path: '/pages/contacts'
     }
   ],
   author: {
