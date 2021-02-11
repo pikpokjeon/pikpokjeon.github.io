@@ -91,11 +91,11 @@ pre[class*="language-"] {
 .token.atrule,
 .token.attr-value,
 .token.keyword {
-  color: rgb(130 204 249);
+  color:#faff0c;
 }
 .token.class-name,
 .token.function {
-  color: rgb(230 214 90);
+  color: rgb(112 173 210);
 }
 .token.important,
 .token.regex,
