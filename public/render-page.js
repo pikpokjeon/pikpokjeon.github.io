@@ -1667,14 +1667,14 @@ module.exports = {
   // },
   {
     label: 'Algorithms',
-    path: '/'
+    path: '/category/알고리즘/'
   }, // {
   //   label: 'CodingTest',
   //   path: '/'
   // },
   {
-    label: 'ProLang',
-    path: '/'
+    label: 'Javascript',
+    path: '/category/javascript/'
   }, // {
   //   label: 'About',
   //   path: '/pages/contacts'
