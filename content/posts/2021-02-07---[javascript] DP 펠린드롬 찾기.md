@@ -1,13 +1,13 @@
 ---
-title: "[JS] DynamicProgramming 펠린드롬 찾기"
+title: "[NodeJS] 0942번: 팰린드롬?"
 date: "2021-02-07T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "dppel"
-category: "알고리즘"
+category: "Algorithm"
 tags:
-  - "알고리즘"
-  - "자바스크립트"
+  - "Algorithm"
+  - "Javascript"
   - "백준"
   - "DynamicProgramming"
 description: "DP와 재귀함수를 통해 펠린드롬 검사하기. 제한 1.5초/256 MB"

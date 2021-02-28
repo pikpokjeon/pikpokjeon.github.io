@@ -1,13 +1,13 @@
 ---
-title: "[JS] 3차원 배열 토마토 문제"
+title: "[NodeJS] 7569번: 3차원 배열 토마토 문제"
 date: "2021-01-17T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "tomatothreed"
-category: "알고리즘"
+category: "Algorithm"
 tags:
-  - "알고리즘"
-  - "자바스크립트"
+  - "Algorithm"
+  - "Javascript"
   - "백준"
   - "bfs"
 description: "쌓여진 토마토들이 전부 익는데 걸리는 시간 구하기 문제"
