@@ -20,22 +20,23 @@ module.exports = {
       label: "Algorithms",
       path: "/category/algorithm/",
     },
-    // {
-    //   label: 'CodingTest',
-    //   path: '/'
-    // },
+
     {
       label: "Javascript",
       path: "/category/javascript/",
     },
-    // {
-    //   label: 'About',
-    //   path: '/pages/contacts'
-    // },
     {
-      label: "Contact me",
+      label: "Infra",
+      path: "/category/infra/",
+    },
+    {
+      label: "About",
       path: "/pages/contacts",
     },
+    // {
+    //   label: "Contact me",
+    //   path: "/pages/contacts",
+    // },
   ],
   author: {
     name: "Yaejin Jeon",
