@@ -19,10 +19,10 @@ module.exports = {
       label: 'Algorithms',
       path: '/category/알고리즘/'
     },
-    // {
-    //   label: 'CodingTest',
-    //   path: '/'
-    // },
+    {
+      label: 'Frontend',
+      path: '/category/frontend'
+    },
     {
       label: 'Javascript',
       path: '/category/javascript/'
