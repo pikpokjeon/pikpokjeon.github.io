@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Javascript","totalCount":1},{"fieldValue":"frontend","totalCount":1},{"fieldValue":"알고리즘","totalCount":10}]}}}
+=======
+{"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Algorithm","totalCount":10},{"fieldValue":"Javascript","totalCount":1}]}}}
+>>>>>>> 01880d32de95b94d425a0de56e2c94b152b220ce

@@ -1,13 +1,13 @@
 ---
-title: "[python] BFS DFS snippet"
+title: "[Python] BFS DFS snippet"
 date: "2021-01-10T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "bfsdfs"
-category: "알고리즘"
+category: "Algorithm"
 tags:
-  - "알고리즘"
-  - "파이썬"
+  - "Algorithm"
+  - "Python"
 description: "BFS DFS 기본 코드"
 ---
 ``` python
