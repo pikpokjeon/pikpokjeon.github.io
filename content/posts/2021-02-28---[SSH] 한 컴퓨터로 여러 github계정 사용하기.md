@@ -2,7 +2,7 @@
 title: "[SSH] 한 컴퓨터로 여러 Github 계정 사용하기"
 date: "2021-02-28T22:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "github_ssh"
 category: "Infra"
 tags:
