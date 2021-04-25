@@ -17,8 +17,11 @@ description: "번들링 라이브러리 없이, html내부에서 import를 사�
 - 최신 브라우저에서는 자바스크립트의 네이티브 모듈기능을 지원하기 시작하였습니다. 
 - 브라우저에서는 모듈의 로딩을 최적화 할 수 있기 때문에 webpack과 같은 번들링 라이브러리를 사용하는 것 보다 효율적입니다.
 
-#### <script type="module">
+#### type="module"
 - javascript 파일을 html에 삽입할 때, 타입을 'module'로 정의함으로써 'import' 구문을 사용가능 하도록 합니다.
+```html
+<script type="module"></script>
+```
 
 #### 1. html
 - 모듈 스크립트는 자동으로 defer 속성을 가지게 됩니다.
