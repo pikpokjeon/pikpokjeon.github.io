@@ -19,36 +19,42 @@ description: "번들링 라이브러리 없이, html내부에서 import를 사�
 
 #### type="module"
 - javascript 파일을 html에 삽입할 때, 타입을 'module'로 정의함으로써 'import' 구문을 사용가능 하도록 합니다.
+
 ```html
 <script type="module"></script>
 ```
 
 #### 1. html
 - 모듈 스크립트는 자동으로 defer 속성을 가지게 됩니다.
+
 ``` html
 <!DOCTYPE html>
 ...
 <body>
+  
 // 인라인스크립트에서 모듈을 불러옵니다.
 <script type="module">
-    import {chartIdx} from './chart/store.js' //*로컬에서 CORS문제가 발생합니다. 서버를 통하도록 합니다.
+    import {chartIdx} from './chart/store.js' 
 </script>
+
 // main.js 에서 모듈을 불러옵니다.
 <script type="module" src="./main.js"></script>
+
 </body>
 </html>
 ```
 
 #### 2. main.js
 ``` javascript
-import {chartIdx} from './chart/store.js'  //*로컬에서 CORS문제가 발생합니다. 서버를 통하도록 합니다.
+import {chartIdx} from './chart/store.js'  
 ...
 ```
 
 #### 3. store.js
 - Named export : 이름을 참조하여 내보냅니다. 불러 올 때도 마찬가지 입니다.
 - default export : 모듈의 기본값을 사용합니다, 하나의 모듈에는 하나의 default export만 허용합니다.
-```javascript
+
+``` javascript
 
 const chartIdx =
 {
@@ -59,9 +65,12 @@ const chartIdx =
         end: -1,
     }
 }
+
+
 // 객체에 초기이름을 부여하기 위해 사용합니다.
-// 함수와 객체 등 여러 타입이 배열에 들어간 경우, 이 원소들을 객체로 복사해서 재사용 할 때
-// 고유한 이름을 남겨줍니다. 이 부분은 다음번에 설명 하도록 하겠습니다.
+// 함수와 객체 등 여러 타입이 배열에 들어간 경우,
+// 이 배열 원소들을 객체로 복사하여 재사용 할 때
+// 고유한 이름을 남겨줍니다. 이 부분은 다음에 설명 하도록 하겠습니다.
 chartIdx[Symbol.toStringTag] = 'chartIdx'
 
 export {chartIdx}
