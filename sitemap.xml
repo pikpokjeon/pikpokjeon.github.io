@@ -12,10 +12,11 @@
 <url> <loc>https://pikpokjeon.github.io/posts/tomatothreed</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/posts/countStick</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/posts/stickss</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pikpokjeon.github.io/posts/use-import-in-html-script</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pikpokjeon.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/posts/dppel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pikpokjeon.github.io/pages/chart/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pikpokjeon.github.io/posts/use-import-in-html-script</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pikpokjeon.github.io/posts/Object-Reflect-WhyIsThat</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pikpokjeon.github.io/posts/ExecutionContext</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pikpokjeon.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/algorithm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/algorithm/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -23,6 +24,7 @@
 <url> <loc>https://pikpokjeon.github.io/tag/dynamic-programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/javascript/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pikpokjeon.github.io/tag/javascript/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/backtracking</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/bfs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -33,6 +35,7 @@
 <url> <loc>https://pikpokjeon.github.io/tag/비동기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/입출력</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/자바스크립트</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pikpokjeon.github.io/tag/자바스크립트엔진</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/프로그래머스</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/tag/프론트엔드</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/category/algorithm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -43,4 +46,5 @@
 <url> <loc>https://pikpokjeon.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pikpokjeon.github.io/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pikpokjeon.github.io/page/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
