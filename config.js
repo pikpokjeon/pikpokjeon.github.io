@@ -30,6 +30,10 @@ module.exports = {
       path: '/category/frontend'
     },
     {
+      label: 'Project',
+      path: '/category/lib'
+    },
+    {
       label: "Infra",
       path: "/category/infra/",
     },
