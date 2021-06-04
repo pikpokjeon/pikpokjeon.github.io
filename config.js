@@ -12,10 +12,10 @@ module.exports = {
   googleAnalyticsId: "G-1Z7D4THB6G",
   useKatex: false,
   menu: [
-    // {
-    //   label: 'Life',
-    //   path: '/pages/life'
-    // },
+    {
+      label: 'Life',
+      path: '/category/life'
+    },
     {
       label: "Algorithms",
       path: "/category/algorithm/",
@@ -26,12 +26,12 @@ module.exports = {
       path: "/category/javascript/",
     },
     {
-      label: 'Frontend',
-      path: '/category/frontend'
+      label: "Frontend",
+      path: "/category/frontend/",
     },
     {
-      label: 'Project',
-      path: '/category/lib'
+      label: "Project",
+      path: "/category/lib/",
     },
     {
       label: "Infra",
