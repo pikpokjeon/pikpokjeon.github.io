@@ -4,7 +4,7 @@ date: "2021-09-05T22:40:32.169Z"
 template: "post"
 draft: true
 slug: "frontendStorages"
-category: "frontend"
+category: "Frontend"
 tags:
   - "frontend"
 description: "클라이언트 단의 저장소에 대해서 알아보자."
