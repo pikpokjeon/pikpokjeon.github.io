@@ -2,7 +2,7 @@
 title: "[Javascript] Destructuring Assignment feat.구조분해할당"
 date: "2021-06-05T22:40:32.169Z"
 template: "post"
-draft: true
+draft: false
 slug: "destructuring-assignment"
 category: "Javascript"
 tags:

@@ -2,7 +2,7 @@
 title: "[Frontend] local Storage / Session Storage / Cookie"
 date: "2021-09-05T22:40:32.169Z"
 template: "post"
-draft: true
+draft: false
 slug: "frontendStorages"
 category: "Frontend"
 tags:
